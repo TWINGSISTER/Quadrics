@@ -1,1 +1,1 @@
-# Quadrics: A Blender + Sverchok  addon tu draw non singular quadrics
+# Quadrics: A Blender + Sverchok  addon to draw non singular quadrics
